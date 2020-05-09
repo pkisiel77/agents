@@ -1,0 +1,13 @@
+C:\Users\pawel.kisielewicz\RiderProjects\agents\obj\Debug\netcoreapp3.1\agents.csprojAssemblyReference.cache
+C:\Users\pawel.kisielewicz\RiderProjects\agents\obj\Debug\netcoreapp3.1\agents.csproj.CoreCompileInputs.cache
+C:\Users\pawel.kisielewicz\RiderProjects\agents\obj\Debug\netcoreapp3.1\agents.AssemblyInfoInputs.cache
+C:\Users\pawel.kisielewicz\RiderProjects\agents\obj\Debug\netcoreapp3.1\agents.AssemblyInfo.cs
+C:\Users\pawel.kisielewicz\RiderProjects\agents\bin\Debug\netcoreapp3.1\agents.exe
+C:\Users\pawel.kisielewicz\RiderProjects\agents\bin\Debug\netcoreapp3.1\agents.deps.json
+C:\Users\pawel.kisielewicz\RiderProjects\agents\bin\Debug\netcoreapp3.1\agents.runtimeconfig.json
+C:\Users\pawel.kisielewicz\RiderProjects\agents\bin\Debug\netcoreapp3.1\agents.runtimeconfig.dev.json
+C:\Users\pawel.kisielewicz\RiderProjects\agents\bin\Debug\netcoreapp3.1\agents.dll
+C:\Users\pawel.kisielewicz\RiderProjects\agents\bin\Debug\netcoreapp3.1\agents.pdb
+C:\Users\pawel.kisielewicz\RiderProjects\agents\obj\Debug\netcoreapp3.1\agents.dll
+C:\Users\pawel.kisielewicz\RiderProjects\agents\obj\Debug\netcoreapp3.1\agents.pdb
+C:\Users\pawel.kisielewicz\RiderProjects\agents\obj\Debug\netcoreapp3.1\agents.genruntimeconfig.cache
