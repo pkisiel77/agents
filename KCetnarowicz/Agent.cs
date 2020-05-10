@@ -9,6 +9,7 @@
         protected int minParam = 0;
         protected int maxParam = 100;
     }
+
     public class ReasoningAbility : AgentModule
     {
         public ReasoningAbility()
@@ -30,6 +31,12 @@
             maxParam = 100;
         }
     }
+
+public class Perception : AgentModule
+{
+}
+
+
 
 
 }
