@@ -31,12 +31,33 @@
             maxParam = 100;
         }
     }
+    public class Knowledge : AgentModule
+    {
+        
+    }
+    public class Perception : AgentModule
+    {
+    }
 
+    public class Communication : AgentModule
+    {
+        
+    }
 
+    public class Capabilities : AgentModule
+    {
+        
+    }
 
-public class Perception : AgentModule
-{
-}
+    public class Decisions : AgentModule
+    {
+        
+    }
+
+    public class Choice : AgentModule
+    {
+        
+    }
 
 
 
