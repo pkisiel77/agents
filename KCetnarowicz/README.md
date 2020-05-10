@@ -3,3 +3,4 @@ Agent by Krzystof Cetnarowicz
 "Problems of Multiagent Systems Development"
 
 ![Autonomic agent lit[1]](imgs\autonomic-agent.png)
+
